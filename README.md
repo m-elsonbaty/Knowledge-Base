@@ -3,5 +3,6 @@ This repository is a collection of articles primarily focused on modern cloud te
 **Articles:**
 
 * [Connecting to GitHub with a Personal Access Token (PAT)](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/GitHub.md)
-* [Moving Your Docker Image to Google Cloud Artifact Registry](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/Artifact.md)
 * [Building and Pushing a Docker Container](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/docker.md)
+* [Moving Your Docker Image to Google Cloud Artifact Registry](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/Artifact.md)
+
