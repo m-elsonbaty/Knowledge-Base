@@ -1,4 +1,4 @@
-This repository is a curated collection of articles primarily focused on modern cloud technologies. You'll find resources on popular platforms like Google Cloud, GitLab, Docker, and web services. Explore the articles below to delve deeper into these cutting-edge technologies and learn how to leverage them effectively.
+This repository is a collection of articles primarily focused on modern cloud technologies. You'll find resources on popular platforms like Google Cloud, GitLab, Docker, and web services. Explore the articles below to dive deeper into these cutting-edge technologies and learn how to leverage them effectively.
 
 **Articles:**
 
