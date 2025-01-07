@@ -5,4 +5,5 @@ This repository is a collection of articles primarily focused on modern cloud te
 * [Connecting to GitHub with a Personal Access Token (PAT)](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/GitHub.md)
 * [Building and Pushing a Docker Container](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/docker.md)
 * [Moving Your Docker Image to Google Cloud Artifact Registry](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/Artifact.md)
+* [Setting Up Jenkins with Docker on Linux](https://github.com/m-elsonbaty/Knowledge-Base/blob/main/Jenkins.md)
 
