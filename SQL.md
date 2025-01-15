@@ -1,4 +1,4 @@
-## Exploring a New Database and Finding the latset Transaction
+## Exploring a New Database and Finding the latest Transaction
 
 ### SQL Query to Find Transactions from the Last 2 Days
 
