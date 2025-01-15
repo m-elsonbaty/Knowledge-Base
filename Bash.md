@@ -1,4 +1,4 @@
-## Automating File Search with Bash
+## Automating File Search and Cleanup
 
 ### Bash Script for File Search and Cleanup
 
@@ -7,15 +7,15 @@ The following Bash script automates file search and cleanup tasks:
 ```bash
 #!/bin/bash
 
-# Task 2.1: Search for files with "test" in the name
+# Search for files with "test" in the name
 file_count=$(find / -type f -name "*test*" 2>/dev/null | wc -l)
 echo "Files with word 'test' in name found: $file_count"
 
-# Task 2.2: Search for files containing "test" in their content
+# Search for files containing "test" in their content
 content_count=$(grep -rl "test" / 2>/dev/null | wc -l)
 echo "Files with word 'test' in content found: $content_count"
 
-# Task 2.3: Delete files with "test" in the name, older than 2 weeks
+# Delete files with "test" in the name, older than 2 weeks
 find / -type f -name "*test*" -mtime +14 -exec rm -f {} \; 2>/dev/null
 echo "Files with 'test' in name, older than 2 weeks, have been deleted."
 ```
