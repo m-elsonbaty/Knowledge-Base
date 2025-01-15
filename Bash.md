@@ -20,15 +20,4 @@ find / -type f -name "*test*" -mtime +14 -exec rm -f {} \; 2>/dev/null
 echo "Files with 'test' in name, older than 2 weeks, have been deleted."
 ```
 
-### Script Explanation:
-1. **Search for files with "test" in the name**:
-   - The `find` command locates files matching the pattern `*test*`.
-   - `wc -l` counts the total number of matching files.
-
-2. **Search for files containing "test" in content**:
-   - The `grep` command recursively searches for the word "test" in file content.
-
-3. **Delete files older than 2 weeks**:
-   - The `find` command filters files by name and age (`-mtime +14`) and removes them with `-exec rm -f`.
-
 **Note**: This script uses `2>/dev/null` to suppress permission errors during the search.
