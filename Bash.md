@@ -2,7 +2,7 @@
 
 ### Bash Script for File Search and Cleanup
 
-The following Bash script automates file search and cleanup tasks:
+The following Bash script automates file search and cleanup:
 
 ```bash
 #!/bin/bash
