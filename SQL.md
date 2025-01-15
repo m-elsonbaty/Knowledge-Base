@@ -2,7 +2,7 @@
 
 ### SQL Query to Find Transactions from the Last 2 Days
 
-When connecting to a new database, it’s essential to get familiarize with its structure and data:
+When connecting to a new database, it’s essential to get familiarize with its structure and data. Here is a professional approach:
 
 1. **Understand the Schema**:
    - Use commands like `SHOW TABLES;` or `SELECT table_name FROM information_schema.tables WHERE table_schema = 'main_database';` to identify the available tables.
